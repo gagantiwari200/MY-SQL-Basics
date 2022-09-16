@@ -1,4 +1,4 @@
-# MY-SQL-Basics
+# MY SQL Aggregate Function
 
 Create database if not exists inueron;
 use inueron;
